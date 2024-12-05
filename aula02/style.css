@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(189, 159, 83);
+    color:rgb(18, 20, 20);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+a {text-decoration: none;
+    color:#ccd7f7
+}
+
+main{
+    margin: 60px;
+}
+
+.itens-menu{
+    color: #58dbc5;
+    display: flex;
+
+}
+
+.itens-menu li{
+    margin-left: 40px;
+}
+
